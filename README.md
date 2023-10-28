@@ -4,7 +4,7 @@ Güneydoğu Anadolu bölgesi ile alakalı bir gezi planlaması için yapılmış
 
 <h2> Harici Kütüphaneler </h2>
 
-HTML VE CSS kullanılarak yapılmış bit site
+HTML VE CSS kullanılarak yapılmış bir site
 
 <h2>Ekran Görüntüsü</h2>
 
